@@ -1,7 +1,7 @@
 # **Olá. Bem-Vindo ao Meu Perfil!**
 <!-- Procuram-se erros por aqui. Caso encontre, me comunique! -->
 
-# 📗ℹ️ ▪️ Sobre:
+# 📗ℹ️ ▪️ Sobre
 
 > 👋 **Estou em busca de um estágio relacionado a minha área, ou também vaga de desenvolvedor.** <br>
 > 👨‍💻 **Construindo caminhos e inovando resultados.** <br>
@@ -12,7 +12,7 @@
 > <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiozinS2&hide_progress=true" />
 
 
-# 📙💻 ▪️ Conhecimentos:
+# 📙💻 ▪️ Conhecimentos
 >![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -22,7 +22,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-# 📘⚛️ ▪️ Onde estou cursando?<br>
+# 📘⚛️ ▪️ Onde estou cursando?
 >![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 # 🌐 ▪️ Sociais
