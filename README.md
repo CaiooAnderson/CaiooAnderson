@@ -6,7 +6,7 @@
 > 👋 **Estou em busca de um estágio relacionado a minha área, ou também vaga de desenvolvedor.** <br>
 > 👨‍💻 **Construindo caminhos e inovando resultados.** <br>
 > 👨‍🎓 **Graduando em Análise e Desenvolvimento de Sistemas.** <br>
-> 🖼️ <b>Continue para saber mais!</b>
+> 🖼️ <b>Saiba mais sobre mim aqui abaixo!</b>
 ## 📑 ▪️ Status GitHub:
 > <img height="165em"  src="https://github-readme-stats.vercel.app/api?username=CaiozinS2&show_icons=true&theme=tokyonight" />
 > <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiozinS2&hide_progress=true" />
