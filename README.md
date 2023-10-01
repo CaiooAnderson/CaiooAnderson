@@ -27,7 +27,7 @@
 
 # 🌐 ▪️ Sociais
 > <div>
-> <a href="https://www.linkedin.com/in/caio-anderson-157976261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+> <a href="https://www.linkedin.com/in/caioandersongoes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 > <a href="mailto:caioandersongoes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 > <a href="https://replit.com/@KyleSkywalker"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" target="_blank"></a>
 > </div>
