@@ -21,7 +21,7 @@
 </div>
 
 ### 📘⚛️ ▪️ Onde estou cursando?
-> **Estou aprimorando meus conhecimentos na <em>Udemy</em>**
+> **Estou aprimorando meus conhecimentos na <em>Udemy</em> e na <em>Alura</em>**
 <br>
 
 ## 🌐 ▪️ Sociais
