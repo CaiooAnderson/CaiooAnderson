@@ -16,7 +16,7 @@
 ## 📙💻 ▪️ Conhecimentos 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,replit,html,css,js,nodejs,react,ts,py,cpp,mysql,postgres&perline=4" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=figma,vscode,replit,html,css,js,nodejs,react,ts,py,cpp,mysql,postgres,docker&perline=4" alt="My Skills">
   </a>
 </div>
 
