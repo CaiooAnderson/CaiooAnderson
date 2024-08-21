@@ -5,7 +5,7 @@
 
 > 👋 **Estou em busca de um estágio relacionado a minha área, ou também vaga de desenvolvedor.** <br>
 > 👨‍💻 **Caminhando sempre rumo ao progresso.** <br>
-> 👨‍🎓 **Graduando em Análise e Desenvolvimento de Sistemas.** <br>
+> 👨‍🎓 **Graduado em Análise e Desenvolvimento de Sistemas.** <br>
 > 🖼️ <b>Saiba mais sobre mim aqui abaixo!</b>
 ### 📑 ▪️ Status GitHub:
 <div class="status" align="center">
