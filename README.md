@@ -10,7 +10,7 @@
 ### 📑 ▪️ Status GitHub:
 <div class="status" align="center">
   <img alt="toplangs-stats" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiooAnderson&layout=compact&hide_border=true&theme=tokyonight" />
-  <img alt="strak-stats" height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=CaiooAnderson&theme=omni&hide_border=true&theme=tokyonight" /> 
+  <img alt="strak-stats" height="165em" src="https://streak-stats.demolab.com?user=CaiooAnderson&theme=github-dark-dimmed&hide_border=true" /> 
 </div>
 
 ## 📙💻 ▪️ Conhecimentos 
