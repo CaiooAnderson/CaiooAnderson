@@ -9,8 +9,8 @@
 > 🖼️ <b>Saiba mais sobre mim aqui abaixo!</b>
 ### 📑 ▪️ Status GitHub:
 <div class="status" align="center">
-  <img alt="toplangs-stats" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiooAnderson&layout=compact&hide_border=true&theme=tokyonight" />
-  <img alt="strak-stats" height="165em" src="https://streak-stats.demolab.com?user=CaiooAnderson&theme=github-dark-dimmed&hide_border=true" /> 
+  <img alt="toplangs-stats" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiooAnderson&layout=compact&hide_border=true&theme=midnight-purple" />
+  <img alt="strak-stats" height="165em" src="https://github-readme-streak-stats-eight.vercel.app/?user=CaiooAnderson&theme=git-dark&hide_border=true&short_numbers=true" /> 
 </div>
 
 ## 📙💻 ▪️ Conhecimentos 
