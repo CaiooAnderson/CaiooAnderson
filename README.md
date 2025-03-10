@@ -3,7 +3,7 @@
 
 ## 📗ℹ️ ▪️ Sobre
 
-> 👋 **Estou em busca de um estágio relacionado a minha área, ou também vaga de desenvolvedor.** <br>
+> 👋 **Estou em busca de assuntos relacionados a minha área, e também vaga de desenvolvedor!** <br>
 > 👨‍💻 **Caminhando sempre rumo ao progresso.** <br>
 > 👨‍🎓 **Graduado em Análise e Desenvolvimento de Sistemas.** <br>
 > 🖼️ <b>Saiba mais sobre mim aqui abaixo!</b>
