@@ -21,7 +21,7 @@
 </div>
 
 ### 📘⚛️ ▪️ Onde estou cursando?
-> **Estou aprimorando meus conhecimentos na <em>Udemy</em> e na <em>Alura</em>**
+> **Estou aprimorando meus conhecimentos lendo documentações, assistindo aulas e fazendo exercícios práticos sobre cada linguagem. Cursei na <em>Udemy</em> e na <em>Alura</em>** em 2023/2024.
 <br>
 
 ## 🌐 ▪️ Sociais
