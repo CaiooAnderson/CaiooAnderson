@@ -7,7 +7,7 @@
 > **Caminhando sempre rumo ao progresso.** <br>
 > **Graduado em Análise e Desenvolvimento de Sistemas.** <br>
 > **Cursando Pós-Graduação em Inteligência Artificial e Machine Learning.** <br>
-> 🖼️ <b>Saiba mais sobre mim aqui abaixo!</b>
+> <b>Saiba mais sobre mim aqui abaixo!</b>
 ### 📑 ▪️ Status GitHub:
 <div class="status" align="center">
   <!-- <img alt="toplangs-stats" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiooAnderson&layout=compact&hide_border=true&theme=midnight-purple" /> -->
