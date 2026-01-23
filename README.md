@@ -3,9 +3,10 @@
 
 ## 📗ℹ️ ▪️ Sobre
 
-> 👋 **Estou em busca de assuntos relacionados a minha área, e também vaga de desenvolvedor!** <br>
-> 👨‍💻 **Caminhando sempre rumo ao progresso.** <br>
-> 👨‍🎓 **Graduado em Análise e Desenvolvimento de Sistemas.** <br>
+> **Estou em busca de assuntos relacionados a minha área, e também vaga de desenvolvedor!** <br>
+> **Caminhando sempre rumo ao progresso.** <br>
+> **Graduado em Análise e Desenvolvimento de Sistemas.** <br>
+> **Cursando Pós-Graduação em Inteligência Artificial e Machine Learning.** <br>
 > 🖼️ <b>Saiba mais sobre mim aqui abaixo!</b>
 ### 📑 ▪️ Status GitHub:
 <div class="status" align="center">
@@ -21,8 +22,7 @@
 </div>
 
 ### 📘⚛️ ▪️ Onde estou cursando?
-> **Estou aprimorando meus conhecimentos lendo documentações, assistindo aulas e fazendo exercícios práticos sobre cada linguagem. Cursei na <em>Udemy</em>, na <em>Alura</em> e na <em>DIO</em>** em 2023/2024/2025.
-<br>
+> **Estou aprimorando meus conhecimentos lendo documentações, assistindo aulas e fazendo exercícios práticos sobre cada linguagem e ferramenta. Formações sendo realizadas na Anhanguera e cursos extras realizados na <em>Udemy</em>, na <em>Alura</em> e na <em>DIO</em>** <br>
 
 ## 🌐 ▪️ Sociais
 <div class="sociais" align="center">
