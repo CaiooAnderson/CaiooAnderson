@@ -1,12 +1,12 @@
-# **Olá. Bem-Vindo ao Meu Perfil!**
-<!-- Procuram-se erros por aqui. Caso encontre, me comunique! -->
+# **Welcome to my profile!**
 
 ## 📗ℹ️ ▪️ Sobre
 
-> **Estou em busca de assuntos relacionados a minha área, e também vaga de desenvolvedor!** <br>
+> **Estou em busca de assuntos relacionados a minha área.** <br>
 > **Caminhando sempre rumo ao progresso.** <br>
 > **Graduado em Análise e Desenvolvimento de Sistemas.** <br>
 > **Cursando Pós-Graduação em Inteligência Artificial e Machine Learning.** <br>
+> **Atuando como Engenheiro de Software.** <br>
 > <b>Saiba mais sobre mim aqui abaixo!</b>
 ### 📑 ▪️ Status GitHub:
 <div class="status" align="center">
@@ -17,7 +17,7 @@
 ## 📙💻 ▪️ Conhecimentos 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,js,css,html,react,nodejs,ts,angular,materialui,jest,tailwind,java,spring,postgres,prisma,mysql,express,docker,aws,git,vscode,idea,postman,figma&perline=5" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,css,html,bun,svelte,react,nodejs,ts,angular,materialui,jest,tailwind,java,spring,go,postgres,prisma,mysql,express,docker,aws,git,vscode,idea,postman&perline=9" alt="My Skills">
   </a>
 </div>
 
