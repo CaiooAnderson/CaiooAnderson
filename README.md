@@ -1,6 +1,6 @@
 # **Welcome to my profile!**
 
-## 📗ℹ️ ▪️ Sobre
+## 📗ℹ️ ▪️ About
 
 > **I'm looking for topics related to my field.** <br>
 > **Always moving towards progress.** <br>
